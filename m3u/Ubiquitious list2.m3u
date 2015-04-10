@@ -1,0 +1,386 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="3"  group-title="New Group",3
+http://212.250.46.35:4252/bysid/9605
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC News"  group-title="News",ABC News
+https://channelpear.com/assets/securefwd.php?vidsrc=aHR0cDovL2FiY2xpdmUuYWJjbmV3cy5jb20vaS9hYmNfbGl2ZTRAMTM2MzMwL2luZGV4XzEyMDBfYXYtYi5tM3U4P3NkPTEwJmFtcDtiPTEyMDAmYW1wO3JlYmFzZT1vbg
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC News"  group-title="New Group",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC7 USA"  group-title="Group N/A",ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="Documentary",Animal Planet
+https://channelpear.com/assets/securefwd.php?vidsrc=aHR0cDovL3NqYy11aGxzLXZpcDAxLnVzdHJlYW0udHYvd2F0Y2gvcGxheWxpc3QubTN1OD9jaWQ9MTI3NjIwMjg
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="New Group",Animal Planet
+http://techstream.dynns.com:1935/ind/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NTQ6NTUgQU0maGFzaF92YWx1ZT1PQnZ3blFLT2YzRDFXRVdqMDR6aXl3PT0mdmFsaWRtaW51dGVzPTI
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC One"  group-title="British",BBC One
+http://93.184.221.133/00573D/1277/1277-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC One (General)"  group-title="Group N/A",BBC One (General)
+acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Sport"  group-title="Group N/A",BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Sport"  group-title="Group N/A",BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Sport"  group-title="Group N/A",BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Two (General)"  group-title="Group N/A",BBC Two (General)
+acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC World News"  group-title="New Group",BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bloomberg"  group-title="New Group",Bloomberg
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOXNATION"  group-title="Group N/A",BOXNATION
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="British Eurosport"  group-title="Group N/A",British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="British Eurosport"  group-title="Group N/A",British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="British Eurosport"  group-title="Group N/A",British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="British Eurosport 2"  group-title="Group N/A",British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="British Eurosport 2"  group-title="Group N/A",British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="British Eurosport 2"  group-title="Group N/A",British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT Sport 1 (Sports)"  group-title="Group N/A",BT Sport 1 (Sports)
+acestream://419d44a6565ec562ec611d4d2622e19af4df035e
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS 2 USA"  group-title="Group N/A",CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS ACTION"  group-title="Group N/A",CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS DRAMA"  group-title="Group N/A",CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS REALITY"  group-title="Group N/A",CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHANNEL 4"  group-title="Group N/A",CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C-MORE"  group-title="Group N/A",C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNBC USA"  group-title="Group N/A",CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DAVE"  group-title="Group N/A",DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Group N/A",Discovery Channel
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery HD"  group-title="New Group",Discovery HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery History"  group-title="Documentary",Discovery History
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY HISTORY"  group-title="Group N/A",DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Science"  group-title="New Group",Discovery Science
+http://techstream.dynns.com:1935/ind/discoverysc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTUgNzozMzozNiBQTSZoYXNoX3ZhbHVlPXVWcC96VVJoUkduVVJ4L2o0MVJlWWc9PSZ2YWxpZG1pbnV0ZXM9Mg
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney Channel"  group-title="New Group",Disney Channel
+http://techstream.dynns.com:1935/ind/disney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTUgNjowNzo0NiBQTSZoYXNoX3ZhbHVlPXplc1E2Ulg3U2VlMU1QeDhrb2VPaVE9PSZ2YWxpZG1pbnV0ZXM9Mg
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DRAMA CHANNEL"  group-title="Group N/A",DRAMA CHANNEL
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eska Best Music TV HD (Music)"  group-title="Group N/A",Eska Best Music TV HD (Music)
+acestream://ffe0d9f754fa67b9fa9f4306a2c8f6adaa807e3b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eska Music Vox TV OldsCool HD (Music)"  group-title="Group N/A",Eska Music Vox TV OldsCool HD (Music)
+acestream://63f1347d2fb1994595220a30d1fe465e237ec847
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eska Party TV HD (Music)"  group-title="Group N/A",Eska Party TV HD (Music)
+acestream://8707096cf3865c9d38d6939be6a40176b7f008bb
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eska Rock TV HD (Music)"  group-title="Group N/A",Eska Rock TV HD (Music)
+acestream://75b6e5e5b6bbb2db221f1dff44b7a388c4347000
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 11 USA"  group-title="Group N/A",Fox 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Life HD (Movies)"  group-title="Group N/A",Fox Life HD (Movies)
+acestream://4f831a2ae4b5daa954a068b9a854def82cf20261
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Fox Movies HD"  group-title="Movies",Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HBO"  group-title="New Group",HBO
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HBO Comedy"  group-title="New Group",HBO Comedy
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV"  group-title="British",ITV
+http://93.184.221.133/00573D/283/283-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 6"  group-title="Group N/A",Kanal 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mob. MTV Russia (Music)"  group-title="Group N/A",Mob. MTV Russia (Music)
+acestream://adb7c77f69ba23f1011467af463a33e51d531385
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOVIES 4"  group-title="Group N/A",MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Group N/A",MTV
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Base UK (Music)"  group-title="Group N/A",MTV Base UK (Music)
+acestream://acea6d107a61f4a7a0d2ae87e8b475e222499d6c
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Base UK (Music)"  group-title="Group N/A",MTV Base UK (Music)
+acestream://acea6d107a61f4a7a0d2ae87e8b475e222499d6c
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Brand New (Music)"  group-title="Group N/A",MTV Brand New (Music)
+acestream://cc97faca343528636a9d67ffe2f3f1d910afe305
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Brand New (Music)"  group-title="Group N/A",MTV Brand New (Music)
+acestream://cc97faca343528636a9d67ffe2f3f1d910afe305
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Classic UK (Music)"  group-title="Group N/A",MTV Classic UK (Music)
+acestream://22a88fff062f7e1b37eb4c2954ae69f3126b7ed3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Classic UK (Music)"  group-title="Group N/A",MTV Classic UK (Music)
+acestream://0cb24ff597926384e6fe650cab03955fff92844f
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Classic UK (Music)"  group-title="Group N/A",MTV Classic UK (Music)
+acestream://22a88fff062f7e1b37eb4c2954ae69f3126b7ed3
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MTV Live HD"  group-title="Music",MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Music 24 (Music)"  group-title="Group N/A",MTV Music 24 (Music)
+acestream://77d2be41dee4e6e64d4825506deb74c397a50223
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Music 24 (Music)"  group-title="Group N/A",MTV Music 24 (Music)
+acestream://77d2be41dee4e6e64d4825506deb74c397a50223
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Russia HD (Music)"  group-title="Group N/A",MTV Russia HD (Music)
+acestream://ee4547fafe66b4765a90b911c5a2dcf506d5ce50
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Musiq1.tv (Music)"  group-title="Group N/A",Musiq1.tv (Music)
+acestream://bffd78b8883b4560c1968455b5c4e483fa92a910
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Muzzone (Music)"  group-title="Group N/A",Muzzone (Music)
+acestream://a9806d1f7e497791d1ea079c5dd7e7694fc3d328
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO"  group-title="Group N/A",NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nat Geo HD"  group-title="New Group",Nat Geo HD
+http://203.162.235.124:5555/udp/225.2.100.104:5000
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nat Geo Wild"  group-title="New Group",Nat Geo Wild
+http://techstream.dynns.com:1935/ind/netgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NDg6MTYgQU0maGFzaF92YWx1ZT1rbk9yK3lnRWcvYTJIbFhMdXN2VUN3PT0mdmFsaWRtaW51dGVzPTI
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geographic"  group-title="New Group",National Geographic
+http://93.184.221.133/00573D/338/338-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic Channel (Cognitive)"  group-title="Group N/A",National Geographic Channel (Cognitive)
+acestream://e04901d23eae87c9570c84af7d0b4aea5cde00b1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA HD (Sports)"  group-title="Group N/A",NBA HD (Sports)
+acestream://20f586f024788e9faaa56de3c4ba5977af8b5071
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA TV (Sport)"  group-title="Group N/A",NBA TV (Sport)
+acestream://6cb64a8da93a64b473b50a5ad91a4214fe7d24ff
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NSport + (Sport)"  group-title="Group N/A",NSport + (Sport)
+acestream://4f7f3c1bb8f7c46011ffe4a620024ee45d3f4f1e
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NSport + (Sport)"  group-title="Group N/A",NSport + (Sport)
+acestream://4f7f3c1bb8f7c46011ffe4a620024ee45d3f4f1e
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Polsat Sport"  group-title="Sport",Polsat Sport
+acestream://2ca6b41dee58c4d6e710001406bb8e1451ba4b40
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polsat Sport (Sport)"  group-title="Group N/A",Polsat Sport (Sport)
+acestream://2ca6b41dee58c4d6e710001406bb8e1451ba4b40
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Premier Sports (Sports)"  group-title="Group N/A",Premier Sports (Sports)
+acestream://9d21d20f6423387ec87463d7ac9b3c9196e7d4ed
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTE 1"  group-title="Group N/A",RTE 1
+http://93.184.221.133/00573D/345/345-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTE 2"  group-title="New Group",RTE 2
+http://212.250.46.35:4252/bysid/9602
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTE 2"  group-title="Group N/A",RTE 2
+http://93.184.221.133/00573D/346/346-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTE junior"  group-title="New Group",RTE junior
+http://212.250.46.35:4252/bysid/9606
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY INFO"  group-title="Group N/A",SKY INFO
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky News"  group-title="New Group",Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Premiere"  group-title="New Group",Sky Premiere
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 1HD Germany (Sports)"  group-title="Group N/A",Sky Sport 1HD Germany (Sports)
+acestream://43e2bbb8fb2bd6dbccacfa6e7adbd4dc4e184b56
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 1HD Germany (Sports)"  group-title="Group N/A",Sky Sport 1HD Germany (Sports)
+acestream://43e2bbb8fb2bd6dbccacfa6e7adbd4dc4e184b56
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 1HD Italia (Sports)"  group-title="Group N/A",Sky Sport 1HD Italia (Sports)
+acestream://5621347fa09f3144965adf289b6a40e4c1d561e1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 1 (Sports)"  group-title="Group N/A",Sky Sports 1 (Sports)
+acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 1 (Sports)"  group-title="Group N/A",Sky Sports 1 (Sports)
+acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 2 (Sports)"  group-title="Group N/A",Sky Sports 2 (Sports)
+acestream://97518ab8451a5c9e8da2b92245ac0ea6622a519c
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 2 (Sports)"  group-title="Group N/A",Sky Sports 2 (Sports)
+acestream://97518ab8451a5c9e8da2b92245ac0ea6622a519c
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 3 (Sports)"  group-title="Group N/A",Sky Sports 3 (Sports)
+acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 3 (Sports)"  group-title="Group N/A",Sky Sports 3 (Sports)
+acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 5 (Sports)"  group-title="Group N/A",Sky Sports 5 (Sports)
+acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports 5 (Sports)"  group-title="Group N/A",Sky Sports 5 (Sports)
+acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports F1 (Sport)"  group-title="Group N/A",Sky Sports F1 (Sport)
+acestream://2dff503259045e4d119e6e972a3db8521c47198a
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports F1 (Sport)"  group-title="Group N/A",Sky Sports F1 (Sport)
+acestream://2dff503259045e4d119e6e972a3db8521c47198a
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports News"  group-title="Group N/A",Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports News"  group-title="Group N/A",Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports News"  group-title="Group N/A",Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport 5 (Sports)"  group-title="Group N/A",Sport 5 (Sports)
+acestream://d069e6454f1b293e4b22fb0d9e42ad077f728d9c
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sportmania Es (Sports)"  group-title="Group N/A",Sportmania Es (Sports)
+acestream://27873cf82c5860aca601e316c10dcfccc4085406
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Tennis HD (Sports)"  group-title="Group N/A",Super Tennis HD (Sports)
+acestream://55c244faa14cf86ce514fc06a5759a4ef96e6c46
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TG4"  group-title="New Group",TG4
+http://212.250.46.35:4252/bysid/9603
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TG4"  group-title="New Group",TG4
+http://tg4-lh.akamaihd.net/EirBeo1_1200_tg4@118693?videoId=2538842141001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&affiliateId;=&bandwidthEstimationTest=true&v=3.3.0&fp=WIN 13,0,0,182&r=MWDOQ&g=TPANMNTKXCBN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 1 720p"  group-title="Group N/A",TSN 1 720p
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 1 720p"  group-title="Group N/A",TSN 1 720p
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 2 720P"  group-title="Group N/A",TSN 2 720P
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 2 720P"  group-title="Group N/A",TSN 2 720P
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 3 720P"  group-title="Group N/A",TSN 3 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 3 720P"  group-title="Group N/A",TSN 3 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 4 720P"  group-title="Group N/A",TSN 4 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 4 720P"  group-title="Group N/A",TSN 4 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 5 720P"  group-title="Group N/A",TSN 5 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 5 720P"  group-title="Group N/A",TSN 5 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Vevo TV1"  group-title="New Group",Vevo TV1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?b?b*t$
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Vevo TV2"  group-title="New Group",Vevo TV2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?b?b*t$
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Vevo TV3"  group-title="New Group",Vevo TV3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?b?b*t$
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VH1"  group-title="Music",VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VH1"  group-title="New Group",VH1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Golf (2)"  group-title="Group N/A",Viasat Golf (2)
+http://93.184.221.133/00573D/911/911-0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Golf (Sports)"  group-title="Group N/A",Viasat Golf (Sports)
+acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Hockey (Sports)"  group-title="Group N/A",Viasat Hockey (Sports)
+acestream://2caed15face7931c01b5be1ee8b876576539b2c3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Motor (Sports)"  group-title="Group N/A",Viasat Motor (Sports)
+acestream://0f62219bbbbf28edfbbee6e8dc166c94dca062a0
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Sport Baltic (Sports)"  group-title="Group N/A",Viasat Sport Baltic (Sports)
+acestream://560b869c3e1939533bee5fb5d81f66e56cf088e2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Sport Sverige (Sports)"  group-title="Group N/A",Viasat Sport Sverige (Sports)
+acestream://93f7c669b5403c0581a1270b315bc23878315931
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat TV3 Sport 1 (Sports)"  group-title="Group N/A",Viasat TV3 Sport 1 (Sports)
+acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat TV3 Sport 2 DN (Sports)"  group-title="Group N/A",Viasat TV3 Sport 2 DN (Sports)
+acestream://53cdbdf779dea70e8e452b87b7d57f06e50c0f3c
+
